@@ -1,0 +1,46 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size:x-large;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    font-size: large;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    width:50%;
+    border-radius: 14px;
+  }
+  .copy_right_footer
+  {
+    position:fixed;
+    bottom:0;
+    background-color: gray;
+    width:100%;
+    text-align: center;
+    line-height:2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red;
+    font-size:large;
+  }
+  canvas{
+    
+    border: 3px solid aqua;
+    margin-top: 143px;
+    
+    box-shadow:5px 5px 5px yellowgreen ;
+  }
+ 
